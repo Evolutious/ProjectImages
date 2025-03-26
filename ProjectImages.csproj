@@ -1,0 +1,19 @@
+﻿<Project Sdk="Dalamud.NET.SDK/12.0.2">
+	<PropertyGroup>
+		<Product>XIVComboEVO</Product>
+		<Authors>Evolutious</Authors>
+		<Version>7.2.1</Version>
+		<Description>This plugin condenses various abilities onto single buttons.</Description>
+		<PackageProjectUrl>https://github.com/Evolutious/XIVComboEVO</PackageProjectUrl>
+    	<Copyright>Copyleft Evolutious 1974</Copyright>
+    	<PlatformTarget>AnyCPU</PlatformTarget>
+	</PropertyGroup>
+	<ItemGroup>
+	  <Content Include="HuntHelper\HuntHelper.png" />
+	  <Content Include="HuntHelper\image1.png" />
+	  <Content Include="HuntHelper\image2.png" />
+	  <Content Include="HuntHelper\image3.png" />
+	  <Content Include="HuntHelper\image4.png" />
+	</ItemGroup>
+	
+</Project>
