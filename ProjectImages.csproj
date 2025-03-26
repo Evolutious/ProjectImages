@@ -14,6 +14,10 @@
 	  <Content Include="HuntHelper\image2.png" />
 	  <Content Include="HuntHelper\image3.png" />
 	  <Content Include="HuntHelper\image4.png" />
+	  <Content Include="PixelPerfect\icon.png" />
+	  
+<Content Include="PixelPerfect\image1.png" />
+	  <Content Include="PixelPerfect\image2.png" />
 	</ItemGroup>
 	
 </Project>
