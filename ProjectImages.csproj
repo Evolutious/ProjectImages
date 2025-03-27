@@ -19,6 +19,7 @@
 	  
 <Content Include="PixelPerfect\image1.png" />
 	  <Content Include="PixelPerfect\image2.png" />
+	  <Content Include="SliceIsRight\SliceIsRight.png" />
 	</ItemGroup>
 	
 </Project>
