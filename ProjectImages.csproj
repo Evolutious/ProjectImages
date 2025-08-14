@@ -1,12 +1,11 @@
-﻿<Project Sdk="Dalamud.NET.SDK/12.0.2">
+﻿<Project Sdk="Dalamud.NET.SDK/13.0.0">
 	<PropertyGroup>
-		<Product>XIVComboEVO</Product>
+		<Product>ProjectImages</Product>
 		<Authors>Evolutious</Authors>
-		<Version>7.2.1</Version>
-		<Description>This plugin condenses various abilities onto single buttons.</Description>
-		<PackageProjectUrl>https://github.com/Evolutious/XIVComboEVO</PackageProjectUrl>
+		<Version>7.3.0</Version>
+		<Description>This is a repository for hosting the icons for various projects I maintain.</Description>
+		<PackageProjectUrl>https://github.com/Evolutious/ProjectImages</PackageProjectUrl>
     	<Copyright>Copyleft Evolutious 1974</Copyright>
-    	<PlatformTarget>AnyCPU</PlatformTarget>
 	</PropertyGroup>
 	<ItemGroup>
 	  <Content Include="HuntHelper\HuntHelper.png" />
@@ -16,10 +15,10 @@
 	  <Content Include="HuntHelper\image4.png" />
 	  <Content Include="LMeter\LMeter.png" />
 	  <Content Include="PixelPerfect\icon.png" />
-	  
-<Content Include="PixelPerfect\image1.png" />
+	  <Content Include="PixelPerfect\image1.png" />
 	  <Content Include="PixelPerfect\image2.png" />
 	  <Content Include="SliceIsRight\SliceIsRight.png" />
+	  <Content Include="XIVComboEVO\XIVComboEVO.png" />
 	</ItemGroup>
 	
 </Project>
